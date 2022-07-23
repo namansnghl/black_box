@@ -9,8 +9,9 @@ This is only the UI. The backend is under development.
 ###### FUTURE PLANS
 Host the application on a home NAS network and create a personal mobile application to fetch passwords when away. 
 ## DEMO
-Keep an eye for updates if any @ [Youtube](https://www.youtube.com/channel/UCevdb-ICQGDpyDTzo8-xK8Q)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3zQMA-r2u7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Keep an eye for updates if any @ [Youtube](https://www.youtube.com/channel/UCevdb-ICQGDpyDTzo8-xK8Q)<br>
+[![Click to watch demo](https://img.youtube.com/vi/3zQMA-r2u7c/hqdefault.jpg)](https://youtu.be/3zQMA-r2u7c "Black Box - Password Manager")
+
 ## SCREENSHOTS
 
 <img src="dump/image-20201201210513312.png" width="400">
