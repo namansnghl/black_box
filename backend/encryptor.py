@@ -7,11 +7,11 @@ from base64 import b64encode, b64decode
 class Manager:
     def __init__(self):
         self.__salt = b'7+W\xa4Ym\xf3/\xbc\x9d\xcd\xae\x1aW\xdfD\x02\x84\xfak>\x86\xbdt\xb4\xd6\xe6\xc6\x8f\xfe\x19\x01'
-        self.jingle = self.__jingler('137')
+        self.jingle = self.__jingler('1457')
 
     def __jingler(self, card: str) -> str:  # TO DO
         jingle = card
-        christmas_function = lambda x: ('1s[7!Qws' * (int(x[-1]) % 3)) + str((int(x) ** 4) % 1123519)
+        christmas_function = lambda x: ('1s[51w!Qws' * (int(x[-1]) % 3)) + str((int(x) ** 4) % 1123519)
         for _ in range(10):
             jingle += christmas_function(jingle[-3:])
         return jingle
